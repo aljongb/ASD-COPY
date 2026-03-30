@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "927710497500",
+    "firebase_url": "https://aninawsadilim-7e24e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "aninawsadilim-7e24e",
+    "storage_bucket": "aninawsadilim-7e24e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927710497500:android:dc0171836278c3889c4219",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.AninawSaDilimDevelopment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCXD0v4RX4a4aK419ZMQQTLo7ASj5S1-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
